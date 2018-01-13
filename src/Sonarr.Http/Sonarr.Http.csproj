@@ -110,6 +110,7 @@
     <Compile Include="PagingResource.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="ResourceChangeMessage.cs" />
+    <Compile Include="REST\UnsupportedMediaTypeException.cs" />
     <Compile Include="REST\BadRequestException.cs" />
     <Compile Include="REST\MethodNotAllowedException.cs" />
     <Compile Include="REST\NotFoundException.cs" />
